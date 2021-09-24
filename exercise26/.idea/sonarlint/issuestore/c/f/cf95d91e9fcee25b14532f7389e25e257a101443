@@ -1,0 +1,31 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ÿìˆúÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "py".(Ã›ˆéøÿÿÿÿ
+7
+java:S1110"!Remove these useless parentheses.(é·–ì
+B
+java:S1481"'Remove this unused "py" local variable.(Ã›ˆéøÿÿÿÿ
+p
+java:S1104"SMake balance a static final constant or non-public and provide accessors if needed.(ØÄ½Æ8ÄÃà¡Á/
+j
+java:S1104"OMake apr a static final constant or non-public and provide accessors if needed.(‚ºÈ’ûÿÿÿÿ
+p
+java:S1104"SMake payment a static final constant or non-public and provide accessors if needed.(ÒÕù¢8ÇÃà¡Á/
+o
+java:S1104"RMake months a static final constant or non-public and provide accessors if needed.(À£µä8ì„¢Á/
+h
+java:S1104	"MMake i a static final constant or non-public and provide accessors if needed.(¿“Û®şÿÿÿÿ
+J
+java:S1444"-Make this "public static balance" field final(ØÄ½Æ8ÉÃà¡Á/
+D
+java:S1444")Make this "public static apr" field final(‚ºÈ’ûÿÿÿÿ
+J
+java:S1444"-Make this "public static payment" field final(ÒÕù¢8ÉÃà¡Á/
+I
+java:S1444",Make this "public static months" field final(À£µä8ì„¢Á/
+B
+java:S1444	"'Make this "public static i" field final(¿“Û®şÿÿÿÿ

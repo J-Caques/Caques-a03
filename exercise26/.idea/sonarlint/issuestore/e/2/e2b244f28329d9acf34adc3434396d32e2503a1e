@@ -1,0 +1,13 @@
+
+G
+java:S2440"1Remove this instantiation of "PaymentCalculator".(§ê¥ø
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ–°ùşÿÿÿÿ
+W
+java:S2209"5Change this instance-reference to a static reference.(”¬ôäøÿÿÿÿ8àì¹ŸÁ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÎÃ
+R
+java:S2209 "5Change this instance-reference to a static reference.(ŠÿÄ»8«—ñ¡Á/
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(…ÔÈöüÿÿÿÿ
+R
+java:S2209#"5Change this instance-reference to a static reference.(ÖÖİ8½Şñ¡Á/
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(âôÊ	
